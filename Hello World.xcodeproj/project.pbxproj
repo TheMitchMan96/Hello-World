@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		19ABB2862203DBFB003F1578 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19ABB2852203DBFB003F1578 /* AppDelegate.swift */; };
-		19ABB2882203DBFB003F1578 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19ABB2872203DBFB003F1578 /* ViewController.swift */; };
 		19ABB28B2203DBFB003F1578 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19ABB2892203DBFB003F1578 /* Main.storyboard */; };
 		19ABB28E2203DBFB003F1578 /* Hello_World.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 19ABB28C2203DBFB003F1578 /* Hello_World.xcdatamodeld */; };
 		19ABB2902203DBFC003F1578 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 19ABB28F2203DBFC003F1578 /* Assets.xcassets */; };
@@ -29,7 +28,6 @@
 /* Begin PBXFileReference section */
 		19ABB2822203DBFB003F1578 /* Hello World.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hello World.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		19ABB2852203DBFB003F1578 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		19ABB2872203DBFB003F1578 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		19ABB28A2203DBFB003F1578 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		19ABB28D2203DBFB003F1578 /* Hello_World.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Hello_World.xcdatamodel; sourceTree = "<group>"; };
 		19ABB28F2203DBFC003F1578 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -80,7 +78,6 @@
 			isa = PBXGroup;
 			children = (
 				19ABB2852203DBFB003F1578 /* AppDelegate.swift */,
-				19ABB2872203DBFB003F1578 /* ViewController.swift */,
 				19ABB2892203DBFB003F1578 /* Main.storyboard */,
 				19ABB28F2203DBFC003F1578 /* Assets.xcassets */,
 				19ABB2912203DBFC003F1578 /* LaunchScreen.storyboard */,
@@ -201,7 +198,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				19ABB28E2203DBFB003F1578 /* Hello_World.xcdatamodeld in Sources */,
-				19ABB2882203DBFB003F1578 /* ViewController.swift in Sources */,
 				19ABB2862203DBFB003F1578 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
